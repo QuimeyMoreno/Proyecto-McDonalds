@@ -1,0 +1,39 @@
+.boton-header {
+  padding: .5rem .75rem;
+  --bs-bg-opacity: 0;
+  font-size: 14px;
+}
+
+.contenedor-botones {
+  width: 360px;
+}
+
+.boton-header-2 {
+  padding: 20px;
+  --bs-bg-opacity: 0;
+  font-size: 14px;
+  background-color: #ffbc0d;
+  height: 48px;
+  align-items: center;
+  padding-bottom: 9px;
+}
+
+.boton-header-2:hover {
+  background-color: #c08b00;
+  border-color: transparent;
+  color: rgba(0, 0, 0, .7);
+}
+
+.tamaño-letra-submenu {
+  font-size: 14px;
+}
+
+.background-prefooter {
+  background-color: #ffbc0d;
+}
+
+.estilo-iconos {
+  border: 1px solid #6f6f6f;
+  padding: 6px;
+  color: #6f6f6f;
+}

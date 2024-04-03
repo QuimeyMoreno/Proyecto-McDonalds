@@ -1,8 +1,8 @@
 
 import './App.css'
-import Footer from './components/Footer'
-import Header from './components/Header'
-import PreFooter from './components/PreFooter'
+import Footer from './components/Footer/Footer'
+import Header from './components/Header/Header'
+import PreFooter from './components/PreFooter/PreFooter'
 
 
 function App() {

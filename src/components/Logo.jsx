@@ -1,9 +1,9 @@
 import LogoMcDonaldsHeader from "../assets/mcdonalds-logo-footer-bg-white.png"
 
-const Logo = () => {
+const Logo = ({tamano}) => {
     return (
         <>
-            <img src={LogoMcDonaldsHeader} alt="Logo McDonalds Argentina" width={100} />
+            <img src={LogoMcDonaldsHeader} alt="Logo McDonalds Argentina" width={tamano} />
         </>
     )
 }

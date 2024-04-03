@@ -1,5 +1,5 @@
-import LogoCelularHeader1 from "../assets/MCD_Descarga_la_app_406b004273.png"
-import LogoCelularHeader2 from "../assets/79_15_1_icone_70x70_bf9839ed7c.png"
+import LogoCelularHeader1 from "/Users/Quimey/OneDrive/Escritorio/Proyecto - McDonalds/mcdonalds/src/assets/MCD_Descarga_la_app_406b004273.png"
+import LogoCelularHeader2 from "/Users/Quimey/OneDrive/Escritorio/Proyecto - McDonalds/mcdonalds/src/assets/79_15_1_icone_70x70_bf9839ed7c.png"
 
 const BotonesHeader = () => {
     return (

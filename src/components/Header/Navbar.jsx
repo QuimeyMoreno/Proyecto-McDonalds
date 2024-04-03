@@ -20,10 +20,10 @@ const Navbar = () => {
                     <a className="nav-link text-dark fs-5" href="#">Locales</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link text-dark fs-5">En Familia</a>
+                    <a className="nav-link text-dark fs-5" href="#">En Familia</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link text-dark fs-5">Nosotros</a>
+                    <a className="nav-link text-dark fs-5" href="#">Nosotros</a>
                 </li>
             </ul>
         </div>

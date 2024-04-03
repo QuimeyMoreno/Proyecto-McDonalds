@@ -37,3 +37,12 @@
   padding: 6px;
   color: #6f6f6f;
 }
+
+.texto-politicas{
+  color: #6f6f6f;
+  font-size: 16px;
+}
+
+.padding-rem{
+  padding: .75rem;
+}

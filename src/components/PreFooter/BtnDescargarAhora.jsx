@@ -1,6 +1,6 @@
 const BtnDescargarAhora = () => {
     return (
-        <a href="#" className="btn btn-light">Descargar Ahora</a>
+        <a href="#" className="btn btn-light btn-padding-descargar">Descargar Ahora</a>
     )
 }
 

@@ -11,13 +11,13 @@ const Footer = () => {
                     <div className="col-md-6">
                         <RedesSociales />
                     </div>
-                    <div className="col-md-6 d-flex justify-content-end">
+                    <div className="col-md-6 d-flex justify-content-end botones-store">
                         <BotonesStore /> 
                     </div>
                 </div>
                 <hr />
 
-                <div className="row">
+                <div className="row terminos-condiciones">
                     <div className="col-md-9">
                         <TerminosYCondiciones />
                     </div>
@@ -28,6 +28,7 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
+                
             </div>
         </div>
     )

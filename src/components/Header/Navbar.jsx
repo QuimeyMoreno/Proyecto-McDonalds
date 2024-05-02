@@ -1,6 +1,8 @@
+import Productos from "./Productos";
+
 const Navbar = () => {
     return (
-        <div>
+        <div className="desaparecer-menu">
             <ul className="nav">
                 <li className="nav-item">
                     <a className="nav-link text-dark tamaño-letra-submenu" aria-current="page" href="#">Trabaja con nosotros</a>
@@ -10,9 +12,7 @@ const Navbar = () => {
                 </li>
             </ul>
             <ul className="nav">
-                <li className="nav-item">
-                    <a className="nav-link text-dark fs-5" aria-current="page" href="#">Productos</a>
-                </li>
+                <Productos />
                 <li className="nav-item">
                     <a className="nav-link text-dark fs-5" href="#">Lanzamientos</a>
                 </li>
@@ -31,3 +31,5 @@ const Navbar = () => {
 }
 
 export default Navbar;
+
+
